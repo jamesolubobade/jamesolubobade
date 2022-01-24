@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesolubobade
-- 👀 I’m interested in ...codes
+- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...R
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...www.linkedin.com/in/jamesolubobade
